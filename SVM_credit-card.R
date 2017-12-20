@@ -30,7 +30,7 @@ head(data)
 #
 
 # Setting the random number generator seed so that our results are reproducible
-# (Your solution doesn't need this, but it's usually good practice to do)
+# (Though solution doesn't need this, but it's usually good practice to do)
 
 set.seed(1)
 
